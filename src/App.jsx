@@ -4,7 +4,7 @@ import Hero from "./components/Hero";
 import Footer from "./components/Footer";
 import Aboutme from "./components/Aboutme";
 import Project from "./components/Project";
-import ContactMe from "./components/ContactMe";
+import ContactMe from "./components/Contactme";
 import './App.css'
 
 function App() {
