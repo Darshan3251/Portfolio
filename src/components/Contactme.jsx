@@ -24,7 +24,7 @@ const ContactMe = () => {
           transition={{ duration: 0.8 }}
         >
           <img
-            src="../../src/assets/project_ss_dk/contact.png"
+            src="project_ss_dk/contact.png"
             alt="Contact Illustration"
             className="w-[280px] sm:w-[360px] md:w-[440px] h-[200px] sm:h-[260px] md:h-[314px] object-cover"
           />

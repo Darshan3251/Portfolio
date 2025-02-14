@@ -60,83 +60,83 @@ const ProjectCard = ({ imgSrc, description, projectLink, aboutProject }) => {
 const Project = () => {
   const projects = [
     {
-      imgSrc: "../../src/assets/project_ss_dk/easybuy.png",
+      imgSrc: "project_ss_dk/easybuy.png",
       description: "EasyBuy",
       projectLink: "https://github.com/Darshan3251/easybuy1",
       aboutProject:
         "EasyBuy is a full-stack e-commerce web app built with the MERN stack, featuring user authentication, product management, cart functionality, and an admin panel for CRUD operations. It integrates Cloudinary for handling multiple product images, ensuring a seamless shopping experience.",
     },
     {
-      imgSrc: "../../src/assets/project_ss_dk/bherusplit.jpeg",
+      imgSrc: " project_ss_dk/bherusplit.jpeg",
       description: "BheruSplit",
       projectLink: "https://bheru-split-darshan3251s-projects.vercel.app/",
       aboutProject:
         "Bheru Split is a workout suggestion app that tailors personalized workout plans based on the user's fitness level (Beginner, Intermediate, Advanced) and goal (Strength, Mobility, Cardiovascular). It dynamically generates routines with recommended exercises, sets, reps, and rest periods, providing a structured approach to fitness progress.",
     },
     {
-      imgSrc: "../../src/assets/project_ss_dk/coinintel.png",
+      imgSrc: " project_ss_dk/coinintel.png",
       description: "CoinIntel",
       projectLink: "https://coinintel-jet.vercel.app/",
       aboutProject:
         "CoinIntel is a crypto analysis app that fetches real-time cryptocurrency data from an API, providing insights into market trends, prices, and exchange details. Built with React and SCSS, it delivers a clean and responsive UI for tracking cryptocurrencies across multiple exchanges.",
     },
     {
-      imgSrc: "../../src/assets/project_ss_dk/splitwise.png",
+      imgSrc: " project_ss_dk/splitwise.png",
       description: "Expense Splitter",
       projectLink: "https://expense-splitter-rosy.vercel.app/",
       aboutProject:
         "Expense Splitter is a bill-splitting app similar to Splitwise, allowing users to add friends, record expenses, and track payments. It calculates and optimizes transactions to show who owes whom, minimizing the number of payments needed for settlement.",
     },
     {
-      imgSrc: "../../src/assets/project_ss_dk/paste.png",
+      imgSrc: " project_ss_dk/paste.png",
       description: "Paste-App",
       projectLink: "https://paste-app-beta-ruby.vercel.app/",
       aboutProject:
         "Paste App is a simple and efficient text-sharing application that allows users to store and share text snippets easily. It provides a clean and minimal UI for quickly pasting and accessing text, making it useful for note-taking and temporary storage.",
     },
     {
-      imgSrc: "../../src/assets/project_ss_dk/food cal.png",
+      imgSrc: " project_ss_dk/food cal.png",
       description: "Calorie-Detector",
       projectLink: "https://calorie-detector.vercel.app/",
       aboutProject:
         "Calorie Detector is an AI-powered food analysis app that uses image recognition to detect food items and estimate their calorie content. Built with machine learning models, it helps users track their dietary intake by analyzing food images in real-time.",
     },
     {
-      imgSrc: "../../src/assets/project_ss_dk/budget.png",
+      imgSrc: " project_ss_dk/budget.png",
       description: "Budget-Tracker",
       projectLink: "https://budget-tracker-six-plum.vercel.app/",
       aboutProject:
         "Budget Tracker is a personal finance management app that helps users track income, expenses, and savings efficiently. With intuitive analytics and budgeting tools, it provides insights into spending habits, enabling better financial planning.",
     },
     {
-      imgSrc: "../../src/assets/project_ss_dk/responsive.png",
+      imgSrc: " project_ss_dk/responsive.png",
       description: "Responsive web",
       projectLink: "https://reactfirst-theta.vercel.app/",
       aboutProject:"Marketing Agency Website is a responsive single-page application built with React and Tailwind CSS. It features essential sections like Home, About, Services, Brands, and Contact, providing a sleek and modern interface for showcasing agency offerings.",
     },
     {
-      imgSrc: "../../src/assets/project_ss_dk/wordatlas.png",
+      imgSrc: " project_ss_dk/wordatlas.png",
       description: "world Atlas",
       projectLink: "https://world-atlas-phi.vercel.app/",
       aboutProject:
         "WorldAtlas is an interactive world exploration app that provides detailed country information, including population, currency, language, and geography. Built with React, it offers a seamless UI for users to explore global data efficiently.",
     },
     {
-      imgSrc: "../../src/assets/project_ss_dk/todo.png",
+      imgSrc: " project_ss_dk/todo.png",
       description: "Todo App",
       projectLink: "https://to-do-app-ruddy-ten.vercel.app/",
       aboutProject:
         "To-Do App is a task management application built with React, featuring local storage integration to save tasks persistently. It allows users to add, edit, and delete tasks, ensuring an efficient and seamless productivity experience",
     },  
     {
-      imgSrc: "../../src/assets/project_ss_dk/video-tube.png",
+      imgSrc: " project_ss_dk/video-tube.png",
       description: "Video Tube",
       projectLink: "https://react-videotube-ebon.vercel.app/",
       aboutProject:
         "VideoTube is a video-sharing platform built with React, featuring light and dark mode for a customizable user experience. It allows users to upload and play videos, providing a seamless and responsive UI for content consumption.",
     }, 
     {
-      imgSrc: "../../src/assets/project_ss_dk/text-to-voice.png",
+      imgSrc: " project_ss_dk/text-to-voice.png",
       description: "Text to Voice",
       projectLink: "https://text-to-voice-smoky-nine.vercel.app/",
       aboutProject:
