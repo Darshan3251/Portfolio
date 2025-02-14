@@ -1,4 +1,4 @@
-# Project Name
+# Easy Buy
 
 🚀 **This project is currently in production!** 🚀  
 
